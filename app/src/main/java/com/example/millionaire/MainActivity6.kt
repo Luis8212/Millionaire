@@ -15,7 +15,7 @@ class MainActivity6 : AppCompatActivity() {
 
     // declare the variable to get the amount from the lasts activities
     var currEarning6 = 0
-
+//
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main6)
